@@ -1,0 +1,28 @@
+{
+    "name": "wxpay/yii-wxpay",
+    "type": "library",
+    "description": "Wechat office sdk with composer.json and psr4",
+    "keywords": [
+        "wechat",
+        "weixin",
+        "weixin-sdk",
+        "sdk",
+        "wechat-php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iflamed",
+            "email": "iflamed@gmail.com"
+        }
+    ],
+	"minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Opwechat\\Phppayment\\": ""
+        }
+    }
+}
