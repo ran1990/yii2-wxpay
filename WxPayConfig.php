@@ -1,7 +1,7 @@
 <?php
 namespace Opwechat\Phppayment;
 
-/**
+/** 
  * 配置账号信息
  */
 
