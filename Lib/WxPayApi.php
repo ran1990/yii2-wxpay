@@ -480,6 +480,8 @@ class WxPayApi
 	 */
 	private static function reportCostTime($url, $startTimeStamp, $data)
 	{
+	    $apiConfig = self::getConfig();
+	    
 		//如果不需要上报数据
 		if($apiConfig['report_levenl'] == 0){
 			return;
