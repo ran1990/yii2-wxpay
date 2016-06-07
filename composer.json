@@ -1,5 +1,5 @@
 {
-    "name": "wxpay/yii-wxpay",
+    "name": "ran/yii-wxpay",
     "type": "library",
     "description": "Wechat office sdk with composer.json and psr4",
     "keywords": [
