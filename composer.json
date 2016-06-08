@@ -1,21 +1,6 @@
 {
-    "name": "ran2016/yii-wxpay",
-    "type": "library",
+    "name": "life2016/yii2-wxpay",
     "description": "Wechat office sdk with composer.json and psr4",
-    "keywords": [
-        "wechat",
-        "weixin",
-        "weixin-sdk",
-        "sdk",
-        "wechat-php"
-    ],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "ran",
-            "email": "r503948796@163.com"
-        }
-    ],
 	"minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0",
